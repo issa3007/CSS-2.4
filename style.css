@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 1400px;
+  height: 674px;
+  display: block;
+  margin: 156px auto 0;
+}
+
+.sub_wrapper {
+  border-radius: 24px;
+  background: #EBF8FE;
+  width: 1137px;
+  margin: 115px auto;
+  padding: 24px;
+}
+
+.sub_wrap .form_box {
+  padding: 42px 32px;
+}
+
+h1 {
+  color: #181D27;
+  font-family: "Inria Sans";
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: -1.28px;
+  margin-bottom: 24px;
+}
+
+.sub_wrap {
+  margin: 24px auto 0;
+  max-width: 500px;
+}
+
+.sub_p {
+  color: #535862;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  font-family: "Instrument Sans";
+  margin-bottom: 24px;
+}
+
+.sub_email_wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  width: 345px;
+}
+
+#email {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 8px;
+  color: #717680;
+  border: 1px solid #D5D7DA;
+  background: #FFF;
+  line-height: 24px;
+  margin-bottom: 8px;
+}
+
+.subscribe {
+  padding: 12px 18px;
+  vertical-align: top;
+  background: #007CB8;
+  color: #FFF;
+  border: 2px solid #FFF;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.privacy {
+  color: #535862;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  font-family: Inter;
+}
+
+.privacy a {
+  color: #535862;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: Inter;
+}
+
+.form_box {
+  width: 564px;
+  border-radius: 24px;
+  background-color: #EBF8FE;
+  margin: 72px auto;
+  padding: 40px 32px;
+}
+
+h2 {
+  font-family: "Inria Sans";
+  font-size: 40px;
+  color: #181D27;
+  line-height: 60px;
+  letter-spacing: -0.8px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+#email1, #name {
+  padding: 8px 16px; 
+  border-radius: 8px;
+  border: 1px solid #380054;
+  width: 100%;
+  font-family: "Noto Sans Georgian";
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 8px;
+}
+
+.email_wrapper {
+  margin-top: 24px;
+}
+
+.quest_log {
+  width: auto;
+  margin-top: 24px;
+}
+
+.first_question, .second_question {
+  color: #1B003D;
+  font-family: "Noto Sans Georgian";
+  font-size: 14px;
+  line-height: 18px;
+  margin-bottom: 11px;
+}
+
+.quest_log label {
+  margin-left: 11px;
+  color: #6D5F8B;
+}
+
+.radio_div {
+  margin-bottom: 11px;
+}
+
+.checkbox_div {
+  margin-bottom: 11px;
+}
